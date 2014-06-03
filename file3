@@ -1,2 +1,4 @@
-getting started with foo_feature branchfff
-I am in Branch
+
+<<<<<<< HEAD
+I am in Branch but using foo_feature merge
+
